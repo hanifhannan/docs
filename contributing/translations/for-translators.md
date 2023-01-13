@@ -1,5 +1,4 @@
 # Translation guide for translators
-
 ## Translated files
 
 We only translate:
